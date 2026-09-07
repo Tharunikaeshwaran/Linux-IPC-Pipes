@@ -195,7 +195,8 @@ void client() {
 
 
 ## OUTPUT
-![Uploading image.png…]()
+<img width="557" height="375" alt="image" src="https://github.com/user-attachments/assets/26ce6910-aa3d-43cf-b278-04e1b90471ad" />
+
 
 
 # RESULT:
